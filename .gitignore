@@ -1,3 +1,5 @@
 __pycache__
-Pipfile.lock
+.DS_store
+.vscode/
+.Pipfile.lock
 .notes.md
